@@ -12,6 +12,9 @@ This portfolio serves as an organized log of my independent academic projects, e
 ## 🛠️ Tools & Software
 - **Design & Modeling:** Tinkercad (for learning basic 3D assemblies and spatial relationships).
 - **Analysis:** Analytical problem-solving and mathematical derivation.
+- ## Projects
+
+- **[40mm Precision Mechanical Pulley](projects/mechanical-pulley/)**: An industrial-grade mechanical pulley featuring a symmetrical dual-boss design, precision cable groove, and rigid-body physics validation.
 
 ---
 *“In theory, there is no difference between theory and practice. In practice, there is.” — Yogi Berra*
