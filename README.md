@@ -14,7 +14,7 @@ This portfolio serves as an organized log of my independent academic projects, e
 - **Analysis:** Analytical problem-solving and mathematical derivation.
 - ## Projects
 
-- **Fantabulous Curcan-Kieran.stl/)**: An industrial-grade mechanical pulley featuring a symmetrical dual-boss design, precision cable groove, and rigid-body physics validation.
+- ## Projects **[40mm Precision Mechanical Pulley](projects/mechanical-pulley/)**: An industrial-grade mechanical pulley featuring a symmetrical dual-boss design, precision cable groove, and rigid-body physics validation.**Fantabulous Curcan-Kieran.stl/)**: An industrial-grade mechanical pulley featuring a symmetrical dual-boss design, precision cable groove, and rigid-body physics validation.
 
 ---
 *“In theory, there is no difference between theory and practice. In practice, there is.” — Yogi Berra*
