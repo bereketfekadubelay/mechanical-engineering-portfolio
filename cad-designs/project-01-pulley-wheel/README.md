@@ -17,4 +17,4 @@ A precision-designed mechanical pulley wheel featuring a 40 mm diameter footprin
 
 ## Files & Downloads
 * - [Download STL Model File](./project-01-pulley-wheel.stl)
-* [View Live Project in Tinkercad](https://www.tinkercad.com)
+* https://www.tinkercad.com/things/kPqqLV0Cl9V/edit?returnTo=%2Flearn%2Fdesigns&sharecode=TbFnfWE7Cwn7H_Hfkc-r-04BEANqai9J_5948lEavI8
