@@ -16,5 +16,5 @@ A precision-designed mechanical pulley wheel featuring a 40 mm diameter footprin
 * **Compact Power Transmission:** Sizing a 40x40 mm footprint within a 14 mm profile to deliver efficient torque transfer in miniature mechanical assemblies.
 
 ## Files & Downloads
-* - [Download STL Model File](./project-01-pulley-wheel.stl)
-* https://www.tinkercad.com/things/kPqqLV0Cl9V/edit?returnTo=%2Flearn%2Fdesigns&sharecode=TbFnfWE7Cwn7H_Hfkc-r-04BEANqai9J_5948lEavI8
+- [Download STL Model File](./project-01-pulley-wheel.stl)
+- [View Live Project in Tinkercad](https://www.tinkercad.com/things/kPqqLV0Cl9V/edit?returnTo=%2Flearn%2Fdesigns&sharecode=TbFnfWE7Cwn7H_Hfkc-r-04BEANqai9J_5948lEavl8)
